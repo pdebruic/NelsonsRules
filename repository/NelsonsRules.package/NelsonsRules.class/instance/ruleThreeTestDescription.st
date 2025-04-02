@@ -1,0 +1,4 @@
+rules
+ruleThreeTestDescription
+
+	^'Six (or more) points in a row are continually increasing (or decreasing).'

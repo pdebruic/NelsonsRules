@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NelsonsRules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"data",
+		"mean",
+		"stdDev",
+		"testResults"
+	],
+	"name" : "NelsonsRules",
+	"type" : "normal"
+}

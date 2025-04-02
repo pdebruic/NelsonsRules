@@ -1,0 +1,3 @@
+rules
+movingRangeSize
+	^3
